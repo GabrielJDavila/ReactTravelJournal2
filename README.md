@@ -1,19 +1,20 @@
-# co2f24ba2afdaeb92751d243b
+# React Travel Journal
 
-Quick start:
+A simple react project practicing building reusable components. The app itself is a simple travel journal.
 
 ```
-$ yarn # npm install
-$ yarn build # npm run build
+technology used:
+- React
+- JSX
+- JS
+- CSS
+- HTML
+
 ````
+sources:
+- scrimba
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+````
 
 ## About Scrimba
 
